@@ -12,7 +12,7 @@
   <li>Product Page</li>
   <li>Checkout Page</li>
   <hr><br>
- <img src="https://miro.medium.com/max/1400/1*QuQ8-CR05uo45w4CROA7OA.png" alt="CredoBeauty ScreenShot currently unavailable, working on it"/>
+ <img src="https://miro.medium.com/max/1400/1*QuQ8-CR05uo45w4CROA7OA.png" alt="kindly refresh the page if screeenshot doesn't appear!"/>
 <h2>Team Members :</h2>
   <li><a href="https://github.com/Debasree-3031999">Debasree Ghosh</a></li>
   <li><a href="">Kanika Malik</a></li>
